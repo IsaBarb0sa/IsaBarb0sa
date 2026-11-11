@@ -71,8 +71,6 @@ isabella = {
 
 </div>
 
-</div>
-
 *☕ thanks for stopping by — happy coding! 🌙*
 
 </div>
