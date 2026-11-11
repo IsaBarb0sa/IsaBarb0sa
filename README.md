@@ -54,13 +54,6 @@ isabella = {
 ### Estatísticas do meu GitHub
 
 <div align="center">
-
-<div align="center">
-
-
-<h3 align="center">🌿 Minhas estatísticas 🌙</h3>
-
-<div align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="58%" alt="Contribuições" /><img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="38%" alt="Linguagens mais usadas" />
 </div>
 
