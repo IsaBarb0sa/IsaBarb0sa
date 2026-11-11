@@ -58,5 +58,7 @@ isabella = {
 </div>
 
 <div align="center">
-*☕ thanks for stopping by — happy coding! 🌙*
+
+☕ *thanks for stopping by — happy coding!* 🌙
+
 </div>
