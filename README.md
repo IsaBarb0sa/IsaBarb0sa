@@ -55,9 +55,19 @@ isabella = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IsaBarb0sa&amp;show_icons=true&amp;title_color=779A74&amp;icon_color=C4A96A&amp;text_color=C6D8BE&amp;bg_color=142B24&amp;border_color=526B4C" alt="Estatísticas do GitHub" />
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaBarb0sa&amp;layout=compact&amp;title_color=779A74&amp;text_color=C6D8BE&amp;bg_color=142B24&amp;border_color=526B4C" alt="Linguagens mais usadas" />
+  <img
+    src="./profile-summary-card-output/vue/3-stats.svg"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    src="./profile-summary-card-output/vue/2-most-commit-language.svg"
+    alt="Linguagens mais utilizadas"
+  />
+
+</div>
 
 *☕ thanks for stopping by — happy coding! 🌙*
 
