@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**IsaBarb0sa/IsaBarb0sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌿 Oi, eu sou a Isabella!
 
-Here are some ideas to get you started:
+*Computer Science Student · Developer · Gamer* 🌙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`♡ welcome to my little corner of the internet ♡`
+
+<div align="center">
+  <img
+    src="https://media1.tenor.com/m/O5-9NwLytp4AAAAd/minimoss-pixel-art.gif"
+    width="650"
+    alt="Cozy Pixel Art"
+  />
+</div>
+
+</div>
+
+### 🍃 Sobre mim
+
+Sou estudante de **Ciência da Computação** e adoro transformar ideias em projetos! Tenho interesse em **desenvolvimento web, banco de dados e inteligência artificial**.
+
+```python
+isabella = {
+    "curso": "Ciência da Computação",
+    "estudando": ["Python", "Vue.js", "IA", "Banco de Dados"],
+    "hobbies": ["Jogos", "Programação", "Aprender coisas novas"],
+    "mood": "cozy coding 🌙"
+}
+```
+
+<!-- <div align="center"><img src="./assets/divisoria.png" alt="Divisória pixel art" width="90%" /></div> -->
+
+### Tecnologias que uso
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-314C40?style=for-the-badge&logo=python&logoColor=F1DDA8)
+![FastAPI](https://img.shields.io/badge/FastAPI-476550?style=for-the-badge&logo=fastapi&logoColor=F1DDA8)
+![Vue.js](https://img.shields.io/badge/Vue.js-314C40?style=for-the-badge&logo=vuedotjs&logoColor=F1DDA8)
+![JavaScript](https://img.shields.io/badge/JavaScript-476550?style=for-the-badge&logo=javascript&logoColor=F1DDA8)
+![SQL Server](https://img.shields.io/badge/SQL_Server-314C40?style=for-the-badge&logo=microsoftsqlserver&logoColor=F1DDA8)
+![Git](https://img.shields.io/badge/Git-476550?style=for-the-badge&logo=git&logoColor=F1DDA8)
+
+</div>
+
+### Projetos em destaque
+
+| Projeto | O que é? |
+| --- | --- |
+| [📚 Equivalência de Ementas — TCC](https://github.com/IsaBarb0sa/equivalencia-ementas-tcc) | Sistema web para apoiar análises de aproveitamento de disciplinas com processamento de linguagem natural e similaridade semântica. |
+| [🎸 Riff Run](https://github.com/nelicearaujo/riffrun) | Jogo de plataforma 2D feito com Python e Pygame-CE. |
+
+### Estatísticas do meu GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IsaBarb0sa&amp;show_icons=true&amp;title_color=779A74&amp;icon_color=C4A96A&amp;text_color=C6D8BE&amp;bg_color=142B24&amp;border_color=526B4C" alt="Estatísticas do GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaBarb0sa&amp;layout=compact&amp;title_color=779A74&amp;text_color=C6D8BE&amp;bg_color=142B24&amp;border_color=526B4C" alt="Linguagens mais usadas" />
+
+*☕ thanks for stopping by — happy coding! 🌙*
+
+</div>
