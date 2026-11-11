@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Oi, eu sou a Isabella!
+# Oi, eu sou a Isabella!
 
 *Computer Science Student · Developer · Gamer* 🌙
 
@@ -57,20 +57,13 @@ isabella = {
 
 <div align="center">
 
-  <img
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    width="49%"
-    alt="Estatísticas do GitHub"
-  />
 
-  <img
-    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
-    width="49%"
-    alt="Linguagens mais usadas"
-  />
+<h3 align="center">🌿 Minhas estatísticas 🌙</h3>
 
+<div align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="58%" alt="Contribuições" /><img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="38%" alt="Linguagens mais usadas" />
 </div>
 
+<div align="center">
 *☕ thanks for stopping by — happy coding! 🌙*
-
 </div>
