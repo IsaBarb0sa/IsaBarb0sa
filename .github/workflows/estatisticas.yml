@@ -22,5 +22,5 @@ jobs:
         with:
           USERNAME: IsaBarb0sa
           BRANCH_NAME: main
-          THEME: vue
+          THEME: github_dark
           AUTO_PUSH: true
