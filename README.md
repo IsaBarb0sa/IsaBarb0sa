@@ -58,14 +58,18 @@ isabella = {
 <div align="center">
 
   <img
-    src="./profile-summary-card-output/vue/3-stats.svg"
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    width="49%"
     alt="Estatísticas do GitHub"
   />
 
   <img
-    src="./profile-summary-card-output/vue/2-most-commit-language.svg"
-    alt="Linguagens mais utilizadas"
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    width="49%"
+    alt="Linguagens mais usadas"
   />
+
+</div>
 
 </div>
 
