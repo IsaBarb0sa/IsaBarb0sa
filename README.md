@@ -16,7 +16,7 @@
 
 </div>
 
-### 🍃 Sobre mim
+### Sobre mim
 
 Sou estudante de **Ciência da Computação** e adoro transformar ideias em projetos! Tenho interesse em **desenvolvimento web, banco de dados e inteligência artificial**.
 
@@ -24,8 +24,7 @@ Sou estudante de **Ciência da Computação** e adoro transformar ideias em proj
 isabella = {
     "curso": "Ciência da Computação",
     "estudando": ["Python", "Vue.js", "IA", "Banco de Dados"],
-    "hobbies": ["Jogos", "Programação", "Aprender coisas novas"],
-    "mood": "cozy coding 🌙"
+    "hobbies": ["Jogos", "Programação", "Aprender coisas novas"]
 }
 ```
 
@@ -48,8 +47,8 @@ isabella = {
 
 | Projeto | O que é? |
 | --- | --- |
-| [📚 Equivalência de Ementas — TCC](https://github.com/IsaBarb0sa/equivalencia-ementas-tcc) | Sistema web para apoiar análises de aproveitamento de disciplinas com processamento de linguagem natural e similaridade semântica. |
-| [🎸 Riff Run](https://github.com/nelicearaujo/riffrun) | Jogo de plataforma 2D feito com Python e Pygame-CE. |
+| [Equivalência de Ementas — TCC](https://github.com/IsaBarb0sa/equivalencia-ementas-tcc) | Sistema web para apoiar análises de aproveitamento de disciplinas com processamento de linguagem natural e similaridade semântica. |
+| [Riff Run](https://github.com/nelicearaujo/riffrun) | Jogo de plataforma 2D feito com Python e Pygame-CE. |
 
 ### Estatísticas do meu GitHub
 
